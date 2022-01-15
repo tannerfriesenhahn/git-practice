@@ -1,1 +1,1 @@
-A practice note for using git.
+A practice note for using git. Practice using branches and git.
